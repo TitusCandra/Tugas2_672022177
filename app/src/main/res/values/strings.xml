@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">candra_binding</string>
+    <string name="daftar">Register</string>
+    <string name="masuk">Login</string>
+</resources>
